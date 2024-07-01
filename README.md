@@ -51,7 +51,7 @@ This repository contains a Python script that automates interactions with Instag
 3. **Run the script:**
 
     ```sh
-    python instagram_automation.py
+    python bot.py
     ```
 
 ## Script Explanation
